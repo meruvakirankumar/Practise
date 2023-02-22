@@ -1,0 +1,15 @@
+C:\Kiran\Test\GIT\VunerabilityTest\bin\Debug\net7.0\VunerabilityTest.exe
+C:\Kiran\Test\GIT\VunerabilityTest\bin\Debug\net7.0\VunerabilityTest.deps.json
+C:\Kiran\Test\GIT\VunerabilityTest\bin\Debug\net7.0\VunerabilityTest.runtimeconfig.json
+C:\Kiran\Test\GIT\VunerabilityTest\bin\Debug\net7.0\VunerabilityTest.dll
+C:\Kiran\Test\GIT\VunerabilityTest\bin\Debug\net7.0\VunerabilityTest.pdb
+C:\Kiran\Test\GIT\VunerabilityTest\obj\Debug\net7.0\VunerabilityTest.csproj.AssemblyReference.cache
+C:\Kiran\Test\GIT\VunerabilityTest\obj\Debug\net7.0\VunerabilityTest.GeneratedMSBuildEditorConfig.editorconfig
+C:\Kiran\Test\GIT\VunerabilityTest\obj\Debug\net7.0\VunerabilityTest.AssemblyInfoInputs.cache
+C:\Kiran\Test\GIT\VunerabilityTest\obj\Debug\net7.0\VunerabilityTest.AssemblyInfo.cs
+C:\Kiran\Test\GIT\VunerabilityTest\obj\Debug\net7.0\VunerabilityTest.csproj.CoreCompileInputs.cache
+C:\Kiran\Test\GIT\VunerabilityTest\obj\Debug\net7.0\VunerabilityTest.dll
+C:\Kiran\Test\GIT\VunerabilityTest\obj\Debug\net7.0\refint\VunerabilityTest.dll
+C:\Kiran\Test\GIT\VunerabilityTest\obj\Debug\net7.0\VunerabilityTest.pdb
+C:\Kiran\Test\GIT\VunerabilityTest\obj\Debug\net7.0\VunerabilityTest.genruntimeconfig.cache
+C:\Kiran\Test\GIT\VunerabilityTest\obj\Debug\net7.0\ref\VunerabilityTest.dll
